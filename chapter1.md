@@ -1,6 +1,6 @@
 ---
 title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+description: 'Describing data'
 ---
 
 ## An exercise title written in sentence case
